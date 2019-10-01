@@ -1,0 +1,30 @@
+.jumbotron {
+    background-image: url(../img/carbon.jpg);
+    background-size: cover;
+    text-align: left;
+
+    padding: 80px;
+}
+
+.jumbotron h1 {
+    font-size: 50px;
+}
+
+#slideshow ol {
+    padding: 20px;
+}
+
+.thumbnail {
+    height: 600px;
+    width: 100%;
+    overflow: auto;
+
+}
+
+.thumbnail img {
+    text-align: center;
+    margin: 0 auto;
+    height: 550px;
+    border-width: 5px;
+    border-color: black;
+}
